@@ -1,0 +1,6 @@
+C:\Users\adityakumars\source\repos\testp3\testp3\bin\Debug\testp3.exe.config
+C:\Users\adityakumars\source\repos\testp3\testp3\bin\Debug\testp3.exe
+C:\Users\adityakumars\source\repos\testp3\testp3\bin\Debug\testp3.pdb
+C:\Users\adityakumars\source\repos\testp3\testp3\obj\Debug\testp3.csproj.CoreCompileInputs.cache
+C:\Users\adityakumars\source\repos\testp3\testp3\obj\Debug\testp3.exe
+C:\Users\adityakumars\source\repos\testp3\testp3\obj\Debug\testp3.pdb

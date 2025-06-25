@@ -1,0 +1,6 @@
+C:\Users\adityakumars\source\repos\testp2\testp2\bin\Debug\testp2.exe.config
+C:\Users\adityakumars\source\repos\testp2\testp2\bin\Debug\testp2.exe
+C:\Users\adityakumars\source\repos\testp2\testp2\bin\Debug\testp2.pdb
+C:\Users\adityakumars\source\repos\testp2\testp2\obj\Debug\testp2.csproj.CoreCompileInputs.cache
+C:\Users\adityakumars\source\repos\testp2\testp2\obj\Debug\testp2.exe
+C:\Users\adityakumars\source\repos\testp2\testp2\obj\Debug\testp2.pdb
