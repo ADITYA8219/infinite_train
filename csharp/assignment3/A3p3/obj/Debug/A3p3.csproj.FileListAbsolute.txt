@@ -1,0 +1,6 @@
+C:\Users\adityakumars\source\repos\A3p3\A3p3\bin\Debug\A3p3.exe.config
+C:\Users\adityakumars\source\repos\A3p3\A3p3\bin\Debug\A3p3.exe
+C:\Users\adityakumars\source\repos\A3p3\A3p3\bin\Debug\A3p3.pdb
+C:\Users\adityakumars\source\repos\A3p3\A3p3\obj\Debug\A3p3.csproj.CoreCompileInputs.cache
+C:\Users\adityakumars\source\repos\A3p3\A3p3\obj\Debug\A3p3.exe
+C:\Users\adityakumars\source\repos\A3p3\A3p3\obj\Debug\A3p3.pdb
