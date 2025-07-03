@@ -1,0 +1,7 @@
+C:\Users\adityakumars\source\repos\5.3.1\5.3.1\bin\Debug\5.3.1.exe.config
+C:\Users\adityakumars\source\repos\5.3.1\5.3.1\bin\Debug\5.3.1.exe
+C:\Users\adityakumars\source\repos\5.3.1\5.3.1\bin\Debug\5.3.1.pdb
+C:\Users\adityakumars\source\repos\5.3.1\5.3.1\obj\Debug\5.3.1.csproj.AssemblyReference.cache
+C:\Users\adityakumars\source\repos\5.3.1\5.3.1\obj\Debug\5.3.1.csproj.CoreCompileInputs.cache
+C:\Users\adityakumars\source\repos\5.3.1\5.3.1\obj\Debug\5.3.1.exe
+C:\Users\adityakumars\source\repos\5.3.1\5.3.1\obj\Debug\5.3.1.pdb

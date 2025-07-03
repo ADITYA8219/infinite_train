@@ -1,0 +1,7 @@
+C:\Users\adityakumars\source\repos\E_D\E_D\bin\Debug\E_D.exe.config
+C:\Users\adityakumars\source\repos\E_D\E_D\bin\Debug\E_D.exe
+C:\Users\adityakumars\source\repos\E_D\E_D\bin\Debug\E_D.pdb
+C:\Users\adityakumars\source\repos\E_D\E_D\obj\Debug\E_D.csproj.AssemblyReference.cache
+C:\Users\adityakumars\source\repos\E_D\E_D\obj\Debug\E_D.csproj.CoreCompileInputs.cache
+C:\Users\adityakumars\source\repos\E_D\E_D\obj\Debug\E_D.exe
+C:\Users\adityakumars\source\repos\E_D\E_D\obj\Debug\E_D.pdb

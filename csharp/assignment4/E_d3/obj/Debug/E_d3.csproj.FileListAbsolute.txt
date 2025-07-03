@@ -1,0 +1,6 @@
+C:\Users\adityakumars\source\repos\E_d3\E_d3\bin\Debug\E_d3.exe.config
+C:\Users\adityakumars\source\repos\E_d3\E_d3\bin\Debug\E_d3.exe
+C:\Users\adityakumars\source\repos\E_d3\E_d3\bin\Debug\E_d3.pdb
+C:\Users\adityakumars\source\repos\E_d3\E_d3\obj\Debug\E_d3.csproj.CoreCompileInputs.cache
+C:\Users\adityakumars\source\repos\E_d3\E_d3\obj\Debug\E_d3.exe
+C:\Users\adityakumars\source\repos\E_d3\E_d3\obj\Debug\E_d3.pdb

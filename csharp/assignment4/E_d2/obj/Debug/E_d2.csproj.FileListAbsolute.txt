@@ -1,0 +1,6 @@
+C:\Users\adityakumars\source\repos\E_d2\E_d2\bin\Debug\E_d2.exe.config
+C:\Users\adityakumars\source\repos\E_d2\E_d2\bin\Debug\E_d2.exe
+C:\Users\adityakumars\source\repos\E_d2\E_d2\bin\Debug\E_d2.pdb
+C:\Users\adityakumars\source\repos\E_d2\E_d2\obj\Debug\E_d2.csproj.CoreCompileInputs.cache
+C:\Users\adityakumars\source\repos\E_d2\E_d2\obj\Debug\E_d2.exe
+C:\Users\adityakumars\source\repos\E_d2\E_d2\obj\Debug\E_d2.pdb
