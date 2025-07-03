@@ -1,0 +1,14 @@
+C:\Users\adityakumars\source\repos\cc2.1\cc2.1\bin\Debug\cc2.1.exe.config
+C:\Users\adityakumars\source\repos\cc2.1\cc2.1\bin\Debug\cc2.1.exe
+C:\Users\adityakumars\source\repos\cc2.1\cc2.1\bin\Debug\cc2.1.pdb
+C:\Users\adityakumars\source\repos\cc2.1\cc2.1\obj\Debug\cc2.1.csproj.AssemblyReference.cache
+C:\Users\adityakumars\source\repos\cc2.1\cc2.1\obj\Debug\cc2.1.csproj.CoreCompileInputs.cache
+C:\Users\adityakumars\source\repos\cc2.1\cc2.1\obj\Debug\cc2.1.exe
+C:\Users\adityakumars\source\repos\cc2.1\cc2.1\obj\Debug\cc2.1.pdb
+C:\Users\adityakumars\infinite_train\csharp\cc2\cc2.1\bin\Debug\cc2.1.exe.config
+C:\Users\adityakumars\infinite_train\csharp\cc2\cc2.1\bin\Debug\cc2.1.exe
+C:\Users\adityakumars\infinite_train\csharp\cc2\cc2.1\bin\Debug\cc2.1.pdb
+C:\Users\adityakumars\infinite_train\csharp\cc2\cc2.1\obj\Debug\cc2.1.csproj.AssemblyReference.cache
+C:\Users\adityakumars\infinite_train\csharp\cc2\cc2.1\obj\Debug\cc2.1.csproj.CoreCompileInputs.cache
+C:\Users\adityakumars\infinite_train\csharp\cc2\cc2.1\obj\Debug\cc2.1.exe
+C:\Users\adityakumars\infinite_train\csharp\cc2\cc2.1\obj\Debug\cc2.1.pdb
