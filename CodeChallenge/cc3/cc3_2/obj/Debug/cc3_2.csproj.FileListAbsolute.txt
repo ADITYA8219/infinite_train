@@ -1,0 +1,6 @@
+C:\Users\adityakumars\source\repos\cc3_2\cc3_2\bin\Debug\cc3_2.exe.config
+C:\Users\adityakumars\source\repos\cc3_2\cc3_2\bin\Debug\cc3_2.exe
+C:\Users\adityakumars\source\repos\cc3_2\cc3_2\bin\Debug\cc3_2.pdb
+C:\Users\adityakumars\source\repos\cc3_2\cc3_2\obj\Debug\cc3_2.csproj.CoreCompileInputs.cache
+C:\Users\adityakumars\source\repos\cc3_2\cc3_2\obj\Debug\cc3_2.exe
+C:\Users\adityakumars\source\repos\cc3_2\cc3_2\obj\Debug\cc3_2.pdb

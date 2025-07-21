@@ -1,0 +1,7 @@
+C:\Users\adityakumars\source\repos\generics\generics\bin\Debug\generics.exe.config
+C:\Users\adityakumars\source\repos\generics\generics\bin\Debug\generics.exe
+C:\Users\adityakumars\source\repos\generics\generics\bin\Debug\generics.pdb
+C:\Users\adityakumars\source\repos\generics\generics\obj\Debug\generics.csproj.AssemblyReference.cache
+C:\Users\adityakumars\source\repos\generics\generics\obj\Debug\generics.csproj.CoreCompileInputs.cache
+C:\Users\adityakumars\source\repos\generics\generics\obj\Debug\generics.exe
+C:\Users\adityakumars\source\repos\generics\generics\obj\Debug\generics.pdb
