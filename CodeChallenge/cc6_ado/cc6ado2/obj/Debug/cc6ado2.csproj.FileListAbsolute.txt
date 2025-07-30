@@ -1,0 +1,6 @@
+C:\Users\adityakumars\source\repos\cc6ado2\cc6ado2\bin\Debug\cc6ado2.exe.config
+C:\Users\adityakumars\source\repos\cc6ado2\cc6ado2\bin\Debug\cc6ado2.exe
+C:\Users\adityakumars\source\repos\cc6ado2\cc6ado2\bin\Debug\cc6ado2.pdb
+C:\Users\adityakumars\source\repos\cc6ado2\cc6ado2\obj\Debug\cc6ado2.csproj.CoreCompileInputs.cache
+C:\Users\adityakumars\source\repos\cc6ado2\cc6ado2\obj\Debug\cc6ado2.exe
+C:\Users\adityakumars\source\repos\cc6ado2\cc6ado2\obj\Debug\cc6ado2.pdb
