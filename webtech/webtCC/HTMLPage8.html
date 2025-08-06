@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Append Paragraph on Input Change</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+    <input type="text" id="myInput" placeholder="Type anything" />
+
+    <script>
+    $(document).ready(function() {
+      $('#myInput').on('change', function() {
+       
+        $('<p>').text('Input field has changed...').appendTo('body');
+      });
+    });
+    </script>
+
+</body>
+</html>
