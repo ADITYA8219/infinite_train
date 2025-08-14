@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
@@ -29,3 +30,36 @@ Global
 		SolutionGuid = {26275B91-518D-4D2C-A53C-A0077ED61A03}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36128.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcessionLibrary", "ConcessionLibrary\ConcessionLibrary.csproj", "{65E7227F-BD0A-42A4-97E4-C9E41B394D33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelBookingApp", "TravelBookingApp\TravelBookingApp.csproj", "{C65F5A6F-2D13-4145-B99A-F97AA690A1BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65E7227F-BD0A-42A4-97E4-C9E41B394D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E7227F-BD0A-42A4-97E4-C9E41B394D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E7227F-BD0A-42A4-97E4-C9E41B394D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E7227F-BD0A-42A4-97E4-C9E41B394D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C65F5A6F-2D13-4145-B99A-F97AA690A1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65F5A6F-2D13-4145-B99A-F97AA690A1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65F5A6F-2D13-4145-B99A-F97AA690A1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65F5A6F-2D13-4145-B99A-F97AA690A1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26275B91-518D-4D2C-A53C-A0077ED61A03}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 68a266f (sqlassignment)

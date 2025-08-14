@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\adityakumars\source\repos\p1\p1\bin\Debug\p1.exe.config
 C:\Users\adityakumars\source\repos\p1\p1\bin\Debug\p1.exe
 C:\Users\adityakumars\source\repos\p1\p1\bin\Debug\p1.pdb
@@ -5,3 +6,12 @@ C:\Users\adityakumars\source\repos\p1\p1\obj\Debug\p1.csproj.AssemblyReference.c
 C:\Users\adityakumars\source\repos\p1\p1\obj\Debug\p1.csproj.CoreCompileInputs.cache
 C:\Users\adityakumars\source\repos\p1\p1\obj\Debug\p1.exe
 C:\Users\adityakumars\source\repos\p1\p1\obj\Debug\p1.pdb
+=======
+C:\Users\adityakumars\source\repos\p1\p1\bin\Debug\p1.exe.config
+C:\Users\adityakumars\source\repos\p1\p1\bin\Debug\p1.exe
+C:\Users\adityakumars\source\repos\p1\p1\bin\Debug\p1.pdb
+C:\Users\adityakumars\source\repos\p1\p1\obj\Debug\p1.csproj.AssemblyReference.cache
+C:\Users\adityakumars\source\repos\p1\p1\obj\Debug\p1.csproj.CoreCompileInputs.cache
+C:\Users\adityakumars\source\repos\p1\p1\obj\Debug\p1.exe
+C:\Users\adityakumars\source\repos\p1\p1\obj\Debug\p1.pdb
+>>>>>>> 68a266f (sqlassignment)

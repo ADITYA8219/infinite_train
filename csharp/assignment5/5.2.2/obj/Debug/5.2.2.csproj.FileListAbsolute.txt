@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\adityakumars\source\repos\5.2.2\5.2.2\obj\Debug\5.2.2.csproj.AssemblyReference.cache
 C:\Users\adityakumars\source\repos\5.2.2\5.2.2\obj\Debug\5.2.2.csproj.CoreCompileInputs.cache
 C:\Users\adityakumars\source\repos\5.2.2\5.2.2\bin\Debug\5.2.2.exe.config
@@ -5,3 +6,12 @@ C:\Users\adityakumars\source\repos\5.2.2\5.2.2\bin\Debug\5.2.2.exe
 C:\Users\adityakumars\source\repos\5.2.2\5.2.2\bin\Debug\5.2.2.pdb
 C:\Users\adityakumars\source\repos\5.2.2\5.2.2\obj\Debug\5.2.2.exe
 C:\Users\adityakumars\source\repos\5.2.2\5.2.2\obj\Debug\5.2.2.pdb
+=======
+C:\Users\adityakumars\source\repos\5.2.2\5.2.2\obj\Debug\5.2.2.csproj.AssemblyReference.cache
+C:\Users\adityakumars\source\repos\5.2.2\5.2.2\obj\Debug\5.2.2.csproj.CoreCompileInputs.cache
+C:\Users\adityakumars\source\repos\5.2.2\5.2.2\bin\Debug\5.2.2.exe.config
+C:\Users\adityakumars\source\repos\5.2.2\5.2.2\bin\Debug\5.2.2.exe
+C:\Users\adityakumars\source\repos\5.2.2\5.2.2\bin\Debug\5.2.2.pdb
+C:\Users\adityakumars\source\repos\5.2.2\5.2.2\obj\Debug\5.2.2.exe
+C:\Users\adityakumars\source\repos\5.2.2\5.2.2\obj\Debug\5.2.2.pdb
+>>>>>>> 68a266f (sqlassignment)

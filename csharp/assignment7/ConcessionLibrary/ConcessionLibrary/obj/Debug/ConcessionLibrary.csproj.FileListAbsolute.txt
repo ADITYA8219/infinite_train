@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\adityakumars\source\repos\ConcessionLibrary\ConcessionLibrary\bin\Debug\ConcessionLibrary.exe.config
 C:\Users\adityakumars\source\repos\ConcessionLibrary\ConcessionLibrary\bin\Debug\ConcessionLibrary.exe
 C:\Users\adityakumars\source\repos\ConcessionLibrary\ConcessionLibrary\bin\Debug\ConcessionLibrary.pdb
@@ -5,3 +6,12 @@ C:\Users\adityakumars\source\repos\ConcessionLibrary\ConcessionLibrary\obj\Debug
 C:\Users\adityakumars\source\repos\ConcessionLibrary\ConcessionLibrary\obj\Debug\ConcessionLibrary.csproj.CoreCompileInputs.cache
 C:\Users\adityakumars\source\repos\ConcessionLibrary\ConcessionLibrary\obj\Debug\ConcessionLibrary.exe
 C:\Users\adityakumars\source\repos\ConcessionLibrary\ConcessionLibrary\obj\Debug\ConcessionLibrary.pdb
+=======
+C:\Users\adityakumars\source\repos\ConcessionLibrary\ConcessionLibrary\bin\Debug\ConcessionLibrary.exe.config
+C:\Users\adityakumars\source\repos\ConcessionLibrary\ConcessionLibrary\bin\Debug\ConcessionLibrary.exe
+C:\Users\adityakumars\source\repos\ConcessionLibrary\ConcessionLibrary\bin\Debug\ConcessionLibrary.pdb
+C:\Users\adityakumars\source\repos\ConcessionLibrary\ConcessionLibrary\obj\Debug\ConcessionLibrary.csproj.AssemblyReference.cache
+C:\Users\adityakumars\source\repos\ConcessionLibrary\ConcessionLibrary\obj\Debug\ConcessionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\adityakumars\source\repos\ConcessionLibrary\ConcessionLibrary\obj\Debug\ConcessionLibrary.exe
+C:\Users\adityakumars\source\repos\ConcessionLibrary\ConcessionLibrary\obj\Debug\ConcessionLibrary.pdb
+>>>>>>> 68a266f (sqlassignment)
