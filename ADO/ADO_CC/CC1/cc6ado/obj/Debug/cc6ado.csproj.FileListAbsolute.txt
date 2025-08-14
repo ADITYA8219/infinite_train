@@ -1,0 +1,7 @@
+C:\Users\adityakumars\source\repos\cc6ado\cc6ado\obj\Debug\cc6ado.csproj.AssemblyReference.cache
+C:\Users\adityakumars\source\repos\cc6ado\cc6ado\obj\Debug\cc6ado.csproj.CoreCompileInputs.cache
+C:\Users\adityakumars\source\repos\cc6ado\cc6ado\bin\Debug\cc6ado.exe.config
+C:\Users\adityakumars\source\repos\cc6ado\cc6ado\bin\Debug\cc6ado.exe
+C:\Users\adityakumars\source\repos\cc6ado\cc6ado\bin\Debug\cc6ado.pdb
+C:\Users\adityakumars\source\repos\cc6ado\cc6ado\obj\Debug\cc6ado.exe
+C:\Users\adityakumars\source\repos\cc6ado\cc6ado\obj\Debug\cc6ado.pdb
