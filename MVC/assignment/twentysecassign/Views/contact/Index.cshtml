@@ -1,0 +1,26 @@
+﻿@model List<twentysecassign.Models.Contact>
+
+<h2>Contact List</h2>
+<a href="@Url.Action("Create", "Contact")">Add New Contact</a>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var contact in Model)
+        {
+<tr>
+    <td>@contact.FirstName @contact.LastName</td>
+    <td>@contact.Email</td>
+    <td>
+        <a href="@Url.Action("Delete", "Contact", new { id = contact.Id })">Delete</a>
+
+    </td>
+</tr>}
+    </tbody>
+</table>
