@@ -1,0 +1,9 @@
+﻿@model IEnumerable<MoviesApp.Models.Movie>
+
+<h2>Movies Released in Selected Year</h2>
+
+<ul>
+    @foreach (var movie in Model)
+    {
+<li>@movie.Moviename (@movie.DateofRelease.ToShortDateString())</li>}
+</ul>

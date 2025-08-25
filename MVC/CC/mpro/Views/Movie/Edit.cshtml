@@ -1,0 +1,18 @@
+﻿@model MoviesApp.Models.Movie
+
+<h2>Edit Movie</h2>
+
+@using (Html.BeginForm())
+{
+@Html.HiddenFor(m => m.Mid)
+
+                <label>Movie Name:</label>
+                                @Html.TextBoxFor(m => m.Moviename)
+
+                                                <label>Director Name:</label>
+                                                                @Html.TextBoxFor(m => m.DirectorName)
+
+                                                                                <label>Date of Release:</label>
+                                                                                                @Html.TextBoxFor(m => m.DateofRelease, "{0:yyyy-MM-dd}")
+
+                                                                                                                <input type="submit" value="Save" />}

@@ -1,0 +1,7 @@
+﻿@model MoviesApp.Models.Movie
+
+@using (Html.BeginForm("Delete", "Movie", FormMethod.Post))
+{
+@Html.HiddenFor(m => m.Mid) <!-- This passes the ID -->
+                <p>Are you sure you want to delete <strong>@Model.Moviename</strong>?</p>
+                                <input type="submit" value="Delete" />}
