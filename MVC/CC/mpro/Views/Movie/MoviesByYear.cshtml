@@ -1,9 +1,14 @@
 ﻿@model IEnumerable<MoviesApp.Models.Movie>
 
-<h2>Movies Released in Selected Year</h2>
+<h2>Movies Released in @Request.QueryString["year"]</h2>
 
+@if (!Model.Any())
+{
+<p>No movies found for this year.</p> }
+            else
+            {
 <ul>
     @foreach (var movie in Model)
     {
 <li>@movie.Moviename (@movie.DateofRelease.ToShortDateString())</li>}
-</ul>
+</ul>}

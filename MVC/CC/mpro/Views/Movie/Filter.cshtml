@@ -1,0 +1,23 @@
+﻿@{ ViewBag.Title = "Filter Movies"; }
+
+<h2>Filter Movies</h2>
+
+<!-- Filter by Director -->
+@using (Html.BeginForm("MoviesByDirector", "Movie", FormMethod.Get))
+{
+<div>
+    <label>Search by Director:</label>
+    @Html.TextBox("directorName", null, new { placeholder = "e.g. Christopher Nolan" })
+    <input type="submit" value="Search" />
+</div>}
+
+<br />
+
+<!-- Filter by Year -->
+@using (Html.BeginForm("MoviesByYear", "Movie", FormMethod.Get))
+{
+<div>
+    <label>Search by Year:</label>
+    @Html.TextBox("year", null, new { placeholder = "e.g. 2023", type = "number", min = "1900", max = "2100" })
+    <input type="submit" value="Search" />
+</div>}

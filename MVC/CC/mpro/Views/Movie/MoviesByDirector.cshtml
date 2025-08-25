@@ -1,9 +1,28 @@
 ﻿@model IEnumerable<MoviesApp.Models.Movie>
 
-<h2>Movies by @Model.FirstOrDefault()?.DirectorName</h2>
+@{ var director = ViewBag.DirectorName as string; }
 
+<h2>
+    @if (!string.IsNullOrWhiteSpace(director))
+    {
+@:Movies by "@director"
+}
+else
+{
+@:Movies by [Unknown Director]
+}
+</h2>
+
+@if (!Model.Any())
+{
+<p>No movies found for this director.</p> }
+            else
+            {
 <ul>
     @foreach (var movie in Model)
     {
-<li>@movie.Moviename (@movie.DateofRelease.ToShortDateString())</li>}
-</ul>
+<li>
+    <strong>@movie.Moviename</strong>
+    — Released on @movie.DateofRelease.ToShortDateString()
+</li>}
+</ul>}

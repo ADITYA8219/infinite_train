@@ -127,6 +127,7 @@
     <Content Include="Views\Movie\Index.cshtml" />
     <Content Include="Views\Movie\MoviesByYear.cshtml" />
     <Content Include="Views\Movie\MoviesByDirector.cshtml" />
+    <Content Include="Views\Movie\Filter.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

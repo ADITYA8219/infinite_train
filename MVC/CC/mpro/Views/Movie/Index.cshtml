@@ -1,16 +1,25 @@
 ﻿@model IEnumerable<MoviesApp.Models.Movie>
 
+@{ ViewBag.Title = "All Movies"; }
+
 <h2>All Movies</h2>
 
-<table>
-    <tr>
-        <th>Movie Name</th>
-        <th>Director</th>
-        <th>Release Date</th>
-        <th>Actions</th>
-    </tr>
-    @foreach (var movie in Model)
-    {
+<p>
+    @Html.ActionLink("Filter Movies", "Filter", "Movie", null, new { @class = "btn btn-primary" })
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Movie Name</th>
+            <th>Director</th>
+            <th>Release Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var movie in Model)
+        {
 <tr>
     <td>@movie.Moviename</td>
     <td>@movie.DirectorName</td>
@@ -18,8 +27,7 @@
     <td>
         @Html.ActionLink("Edit", "Edit", new { id = movie.Mid }) |
         @Html.ActionLink("Delete", "Delete", new { id = movie.Mid })
-    
-
     </td>
 </tr>}
+    </tbody>
 </table>
